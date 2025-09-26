@@ -1,11 +1,4 @@
 TinyML Ambulance Detection
 
 This project uses Tiny Machine Learning (TinyML) with an accelerometer and a Particle Photon 2 to detect if an ambulance is driving with sirens (emergency mode) or without sirens (normal driving).
-
-Hardware
-
-Particle Photon 2
-
-ADXL345 accelerometer
-
-USB cable / battery
+Using a Particle Photon 2 combined with an ADXL345 accelerometer, this project will obtain data from an ambulance driving both with and without lights and sirens. The data will be used to train a ML model, making it able to detect if ambulance is driving in emergency mode or normal mode.
