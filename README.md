@@ -1,4 +1,6 @@
-TinyML Ambulance Detection
+TinyML Driving style detection
+
+This project is a part of a semester procjet in the course Tiny Machine Learning at AU Herning
 
 This project uses Tiny Machine Learning (TinyML) with an accelerometer and a Particle Photon 2 to detect if an ambulance is driving with sirens (emergency mode) or without sirens (normal driving).
 
